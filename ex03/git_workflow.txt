@@ -1,0 +1,4 @@
+1. Edit: Modified README.md to add project documentation.
+2. Add: Staged the changes using 'git add README.md'.
+3. Commit: Saved changes with 'git commit -m "Add comprehensive README.md"'.
+4. Push: Uploaded commits to GitHub using 'git push origin main'.
